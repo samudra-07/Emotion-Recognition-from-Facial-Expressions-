@@ -34,7 +34,7 @@ If you want to train your own model:
     python train.py --data_path path/to/your/dataset --epochs 20
     ```
 
-3. Once training is complete, evaluate the model's performance and fine-tune as necessary.
+3. Once training is complete, evaluate the model's performance and fine-tune it as necessary.
 
 ### Inference
 
@@ -62,17 +62,6 @@ The performance of the emotion detection system heavily depends on the quality a
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-This project was inspired by the need for automated emotion detection systems in various applications, including human-computer interaction, market research, and mental health analysis. Special thanks to the open-source community for providing valuable resources and insights.
-
-## Contact
-
-For any inquiries or questions regarding the project, please contact [your@email.com].
 
 ---
 
